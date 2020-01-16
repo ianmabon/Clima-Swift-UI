@@ -71,7 +71,7 @@ struct ContentView: View {
             
             HStack {
                 Spacer()
-                Text("\(self.weatherManager.city)")
+                Text("poop")
                     .fontWeight(.bold)
                     .font(.system(size: 40))
                     .padding(.trailing)
